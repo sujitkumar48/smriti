@@ -1,1 +1,2 @@
 # smriti
+Author:SUJIT KUMAR
